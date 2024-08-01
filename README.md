@@ -1,0 +1,1 @@
+<b><i> This repository contains the coding questions which i have practiced across various platforms throughout my preparation journey. These all codes are solely based on my logical thinking :) </i></b> 
