@@ -1,6 +1,6 @@
 import java.util.LinkedList;
 
-public class Leetcode_826_MiddleOfALinkedList {
+public class Leetcode_876_MiddleOfALinkedList {
     public Listnode middleNode(ListNode head){
         ListNode slow, fast;
 
